@@ -75,3 +75,8 @@
 
 <실행>
 (venv) 들어간 상태에서 python run.py 타입 후 웹사이트에서 member/join 타입
+
+
+
+<robomongo>
+ 1) 사진처럼 myweb 안의 collections 안에 보면 board 즉 올린 글들의 목록과 내용, members 즉 가입자들이 DB에 저장되어있는 것을 확인할 수 있다.
