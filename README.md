@@ -1,14 +1,28 @@
 # HTML_Project
 소공 나만의 다이어리 프로젝트
 
+<영상>
 
-준비물
+https://youtu.be/vS7n4_C-EXM
+
+
+<준비물>
 -visual studio code
 -mongoDB
 -Robomongo    DB의 상황을 편리하게 보여주는 앱
 
+<가상환경 안에서 쓸 라이브러리 설치 목록> <= cmd에 venv\Scripts\activate.bat 파일의 경로를 복붙해줘서 실행>
+pip install flask
+pip list
+pip install flask-pymongo
+pip install flake8
+
+
+
 <가상환경 설치>
-http://blog.naver.com/PostView.nhn?blogId=gracehappyworld&logNo=221490620526 를 따라해본다. 파일명들만 myweb 등 영상과 동일하게 설정
+
+http://blog.naver.com/PostView.nhn?blogId=gracehappyworld&logNo=221490620526 를 따라해본다. 
+파일명들만 myweb 등 영상과 동일하게 설정
 
 
 <mongoDB 설치>
