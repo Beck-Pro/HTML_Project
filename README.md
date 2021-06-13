@@ -39,6 +39,8 @@ http://blog.naver.com/PostView.nhn?blogId=gracehappyworld&logNo=221490620526 를
 추가적으로
 1)가상환경(여기서는 Python 디렉토리)과 동일 디렉토리 선상에 포스트에 저장된 이미지들과 업로드 파일들을 따로 저장해주는 디렉토리를 
 만들어준다
+
+
 ![5](https://user-images.githubusercontent.com/17828537/121804529-c9989680-cc81-11eb-8dec-d5595a068c77.png)
 
 ![6](https://user-images.githubusercontent.com/17828537/121804531-cac9c380-cc81-11eb-8990-9ab2dfdbabbf.png)
