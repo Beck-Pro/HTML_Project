@@ -1,6 +1,7 @@
 # HTML_Project
 소공 나만의 다이어리 프로젝트
 
+
 <영상>
 
 1.https://youtu.be/vS7n4_C-EXM
@@ -68,3 +69,9 @@
 ![7](https://user-images.githubusercontent.com/17828537/121804584-0d8b9b80-cc82-11eb-8d52-3dbcb096d976.png)
 
 
+
+
+
+
+<실행>
+(venv) 들어간 상태에서 python run.py 타입 후 웹사이트에서 member/join 타입
