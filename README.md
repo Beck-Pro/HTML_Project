@@ -7,8 +7,11 @@
 
 
 <준비물>
+
 1.visual studio code
+
 2.mongoDB
+
 3.Robomongo    DB의 상황을 편리하게 보여주는 앱
 
 <가상환경 안에서 쓸 라이브러리 설치 목록> <= cmd에 venv\Scripts\activate.bat 파일의 경로를 복붙해줘서 실행>
