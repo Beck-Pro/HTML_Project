@@ -16,8 +16,11 @@
 
 <가상환경 안에서 쓸 라이브러리 설치 목록> <= cmd에 venv\Scripts\activate.bat 파일의 경로를 복붙해줘서 실행>
 1.pip install flask
+
 2.pip list
+
 3.pip install flask-pymongo
+
 4.pip install flake8
 
 
