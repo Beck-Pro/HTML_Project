@@ -81,3 +81,6 @@
 <robomongo 사용 예>
 
  1) 사진처럼 myweb 안의 collections 안에 보면 board 즉 올린 글들의 목록과 내용, members 즉 가입자들이 DB에 저장되어있는 것을 확인할 수 있다.
+
+![444](https://user-images.githubusercontent.com/17828537/121805344-e1721980-cc85-11eb-8177-f218d4cfd8bf.png)
+
